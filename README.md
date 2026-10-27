@@ -45,8 +45,10 @@ Result: 9 stops, 301 km, 7h 11m driving, ₹9,829 total
 | Map | Leaflet + react-leaflet (OpenStreetMap tiles) |
 | Planning logic | Plain JavaScript, zero dependencies (`src/lib/plan.js`) |
 | Data | `src/data/places.js` — local dataset with coordinates, costs, durations |
-| Deploy | Vercel |
+| Deploy | GitHub Pages (static build, deployed by GitHub Actions) |
 | External APIs | none: no keys, no runtime cost |
+
+**Live demo:** https://chiaradevenuto.github.io/rota-karnataka/
 
 ## Structure
 
