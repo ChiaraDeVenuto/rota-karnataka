@@ -1,0 +1,12 @@
+/* Reset minimale — lo stile applicativo sta in App.css */
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+img,
+svg {
+  display: block;
+  max-width: 100%;
+}
